@@ -16,4 +16,9 @@
 
 <div id="section" align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Css" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="FBoostrap" width="50" height="50"/>&nbsp;
 <div/>
