@@ -32,14 +32,3 @@
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&theme=transparent&show_icons=true&count_private=true)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-### :woman_technologist: About Me :
-I am a Developer Jr from Colombia.
-  
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
