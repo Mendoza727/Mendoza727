@@ -27,7 +27,5 @@
 <div/>
 
 ### :fire: My Stats :
- <div id="stats" align="start">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Mendoza727&theme=dark&border_radius=5.5&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
- <div/>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Mendoza727&theme=dark&border_radius=5.5&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
 
