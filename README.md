@@ -10,7 +10,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -26,3 +25,6 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="AngularJs" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" width="50" height="50"/>&nbsp;
 <div/>
+
+### :fire: My Stats :
+ [![GitHub Streak](https://streak-stats.demolab.com?user=Mendoza727&theme=dark&border_radius=5.5&date_format=n%2Fj%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
