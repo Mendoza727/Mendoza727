@@ -15,5 +15,5 @@
 ### :hammer_and_wrench: Languages and Tools :
 
 <div id="section" align="center">
-     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" width="50" height="50"/>&nbsp;
 <div/>
