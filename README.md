@@ -13,7 +13,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div aling="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="50" height="50"/>&nbsp;
