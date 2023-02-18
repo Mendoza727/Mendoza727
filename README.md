@@ -6,3 +6,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div id="section" aling="center">
+     <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg)" title="Php" width="40" height="40"/>&nbsp;
+<div/>
