@@ -6,10 +6,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<h1>
+<h3>
   Hi I am a Developer Jr. always willing to learn new things about what i like please feel free to check my repositories
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+</h3>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -29,7 +29,7 @@
 
 
 ### :fire: My Stats :
-  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&theme=transparent&show_icons=true&count_private=true)
+ 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&theme=transparent&show_icons=true&count_private=true) &nbsp;
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
