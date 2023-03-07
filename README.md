@@ -30,4 +30,5 @@
 
 ### :fire: My Stats :
 
-|<img src="https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100%"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&langs_count=8&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100%">|
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&theme=transparent&show_icons=true&count_private=true) &nbsp;
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
