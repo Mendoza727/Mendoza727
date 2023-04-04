@@ -31,6 +31,7 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg" title="AngularJs" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
+     <img src="https://www.svgrepo.com/svg/354202/postman-icon" title="Git" width="50" height="50"/>
 <div />
 
 
