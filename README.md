@@ -8,6 +8,9 @@
   <a href="https://www.instagram.com/eljuanitocs/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
+  <a href="mailto:juancamilomendozavillegas14@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"
+  </a>
 </div>
 <h3>
   Hi I am a Developer Jr. always willing to learn new things about what i like please feel free to check my repositories
