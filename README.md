@@ -37,7 +37,7 @@
 ### 🏫 learning:
  <div id="badges" align="start">
     <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/React%20Native-React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
+    <img src="https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
 </div>
  
 
