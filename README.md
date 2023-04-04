@@ -33,14 +33,17 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="PostMan" width="50" height="50"/>
 </div>
-  
+ 
+ 
+ 
 ### 🏫 learning:
  <div id="badges" align="start">
+    <img src="https://img.shields.io/badge/Java-Java-red.svg?style=for-the-badge&logo=java&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" /> <br>
     <img src="https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white" /> <br>
-    <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=black" /> <br>
     <img src="https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
 </div>
+ 
  
 
 ### :fire: My Stats :
