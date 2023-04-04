@@ -32,8 +32,15 @@
      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJs" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" width="50" height="50"/>&nbsp;
      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="PostMan" width="50" height="50"/>
-<div />
-
+</div>
+  
+### 🏫 learning:
+ <div id="badges" align="start">
+    <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Logo" />
+</div>
+ 
 
 ### :fire: My Stats :
   
