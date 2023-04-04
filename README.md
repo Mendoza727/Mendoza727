@@ -36,8 +36,8 @@
   
 ### 🏫 learning:
  <div id="badges" align="start">
-    <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Instagram Badge" />
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Logo" />
+    <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Instagram Badge" /> <br>
+    <img src="https://img.shields.io/badge/Spring?&style=for-the-badge&logo=spring&logoColor=white" alt="Gmail Logo" />
 </div>
  
 
