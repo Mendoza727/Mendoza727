@@ -37,7 +37,7 @@
 ### 🏫 learning:
  <div id="badges" align="start">
     <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" alt="Instagram Badge" /> <br>
-    <img src="https://img.shields.io/badge/Spring.svg?&style=for-the-badge&logo=spring&logoColor=white" alt="Gmail Logo" />
+    <img src="https://img.shields.io/badge/React%20Native-v0.64.2-blue.svg" alt="Gmail Logo" />
 </div>
  
 
