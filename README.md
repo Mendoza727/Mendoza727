@@ -50,5 +50,5 @@
 ### :fire: My Stats :
   
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mendoza727&show_icons=true&theme=radical&show_icons=true&count_private=true" width="400"/>&nbsp;
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&langs_count=5&layout=compact&hide=HTML&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400"></img> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&langs_count=5&layout=compact&hide=HTML,BLADE&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400"></img> 
   
