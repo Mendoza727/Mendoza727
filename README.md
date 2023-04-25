@@ -41,7 +41,6 @@
     <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-orange.svg?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
 </div>
  
