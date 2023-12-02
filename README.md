@@ -38,8 +38,7 @@
  
  
  
-### 🏫 learning:
- <div id="badges" align="start">
+ <div id="badges" align="start" style="display: none;">
     <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=white" /> 
     <img src="https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white" />
     <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" />
