@@ -36,17 +36,6 @@
      <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="PostMan" width="50" height="50"/>
 </div>
  
- 
- 
- <div id="badges" align="start" style="display: none;">
-    <img src="https://img.shields.io/badge/Java-red.svg?style=for-the-badge&logo=java&logoColor=white" /> 
-    <img src="https://img.shields.io/badge/Spring-green.svg?style=for-the-badge&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/Phyton-yellow?style=for-the-badge&logo=python&logoColor=white" />
-    <img src="https://img.shields.io/badge/React%20Native-blue.svg?style=for-the-badge&logo=react&logoColor=white" />
-</div>
- 
- 
-
 ### 🏫 My Stats :
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mendoza727&show_icons=true&theme=radical&show_icons=true&count_private=true" width="400"/>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mendoza727&langs_count=8&layout=compact&hide=BLADE,Less&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="400"></img> 
