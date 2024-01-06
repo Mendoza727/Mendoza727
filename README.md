@@ -23,6 +23,7 @@
 
 <div align="center">
      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="Php" width="50" height="50"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original-wordmark.svg" title="Php" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="Javascript" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" width="50" height="50"/>&nbsp;
      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Html" width="50" height="50"/>&nbsp;
