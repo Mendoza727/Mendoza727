@@ -4,9 +4,9 @@
 </div>
 <hr/>
 
-<h3 align="center">A passionate software developer from Colombia</h3>
+<h3 align="start">A passionate software developer from Colombia</h3>
 <br />
-<div align="center">
+<div align="start">
   
  🌱 I’m currently learning **ReactNative, Flutter, kali**
 
