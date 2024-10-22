@@ -1,6 +1,8 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Camilo!;" />
-</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Juan+Camilo!" />
+    <img align="right" height="170" style="max-width: 100%; height: auto;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50a89f53-175f-4b96-9539-0ad3e72e1f82/dbun8js-94bfd268-4e12-4f88-9e72-9b414bbfdeb5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYTg5ZjUzLTE3NWYtNGI5Ni05NTM5LTBhZDNlNzJlMWY4MlwvZGJ1bjhqcy05NGJmZDI2OC00ZTEyLTRmODgtOWU3Mi05YjQxNGJiZmRlYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q-dNXn66Y3Q7c7rUXQOZQH1qgUv0cJDo0RTJweEpqHo" />
+</div>
+<hr/>
 
 <h3 align="center">A passionate software developer from Colombia</h3>
 <br />
@@ -30,7 +32,6 @@
     
 <div align="center">
         <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-   <img align="right" height="170" style="max-width: 100%; height: auto; float: right;" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/50a89f53-175f-4b96-9539-0ad3e72e1f82/dbun8js-94bfd268-4e12-4f88-9e72-9b414bbfdeb5.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzUwYTg5ZjUzLTE3NWYtNGI5Ni05NTM5LTBhZDNlNzJlMWY4MlwvZGJ1bjhqcy05NGJmZDI2OC00ZTEyLTRmODgtOWU3Mi05YjQxNGJiZmRlYjUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Q-dNXn66Y3Q7c7rUXQOZQH1qgUv0cJDo0RTJweEpqHo" />
         <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,html,css,vscode,github,figma,tailwind,git,gitlab" />
         <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,firebase,mongodb,mysql,postgresql,flask,docker,gcp,npm,notion" />
         <br/><br/>
