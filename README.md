@@ -1,4 +1,4 @@
-<h2 align="left">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> <br>  My name is Juan Camilo, and I’m a fullstack developer from Colombia. Feel free to check out my learning journey and the projects I've been working on. Excited to connect and share ideas! 🚀</h2>
+<h2 align="left">Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> My name is Juan Camilo, and I’m a fullstack developer from Colombia. Feel free to check out my learning journey and the projects I've been working on. Excited to connect and share ideas! 🚀</h2>
 
 ###
 
