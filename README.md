@@ -20,12 +20,21 @@
 <hr/>
 <div>
     
-<div align="center">
-        <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-        <img src="https://skillicons.dev/icons?i=react,angular,django,bootstrap,html,css,vscode,github,figma,tailwind,git,gitlab,postman,express" />
-        <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,php,firebase,mongodb,mysql,postgresql,flask,docker,gcp,npm,notion" />
-        <br/><br/>
-  </div>
+<div align="start">
+  <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+  ### 🖥️ Front-End
+  <img src="https://skillicons.dev/icons?i=react,angular,laravel,vite,next,html,scss,css,bootstrap,tailwind" />
+  
+  ### ⚙️ Back-End
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,java,dart,php,flask,django,nodejs,express" />
+  
+  ### 🗄️ Database
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" />
+
+  ### 🔧 Other Tools
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,gitlab,postman,docker,gcp,aws,npm,notion" />
+</div>
 </div>
 
 <hr/>
